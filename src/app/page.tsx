@@ -103,7 +103,7 @@ export default function LandingPage() {
       animationType="slide-up"
       testimonials={[
         {
-          id: "1",          name: "Alice Miller",          handle: "@alicem",          testimonial: "The best cappuccino in town!",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-drinking-coffee-urban-cafe_158595-676.jpg"},
+          id: "1",          name: "Alice Miller",          handle: "@alicem",          testimonial: "The best cappuccino in town!",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-drinking-coffee-urban-cafe_158595-676.jpg?_wi=1"},
         {
           id: "2",          name: "Bob Smith",          handle: "@bobsmith",          testimonial: "Perfect spot to work and relax.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-pretty-woman-cafe-talking-phone_1262-14968.jpg"},
         {
@@ -111,7 +111,7 @@ export default function LandingPage() {
         {
           id: "4",          name: "Dana White",          handle: "@danawhite",          testimonial: "Excellent service and cozy vibe.",          imageSrc: "http://img.b2bpic.net/free-photo/people-drinking-coffee-spacious-cafeteria_23-2150423998.jpg"},
         {
-          id: "5",          name: "Eva Ross",          handle: "@evaross",          testimonial: "The pastry selection is incredible.",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-drinking-coffee-urban-cafe_158595-676.jpg"},
+          id: "5",          name: "Eva Ross",          handle: "@evaross",          testimonial: "The pastry selection is incredible.",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-drinking-coffee-urban-cafe_158595-676.jpg?_wi=2"},
       ]}
       title="Loved by Locals"
       description="Don't just take our word for it—hear what our regulars have to say about our coffee and service."
