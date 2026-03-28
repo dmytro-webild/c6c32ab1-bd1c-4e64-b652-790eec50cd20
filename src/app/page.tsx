@@ -137,7 +137,7 @@ export default function LandingPage() {
           name: "Alice Miller",
           handle: "@alicem",
           testimonial: "The best cappuccino in town!",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-drinking-coffee-urban-cafe_158595-676.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-drinking-coffee-urban-cafe_158595-676.jpg?_wi=1",
         },
         {
           id: "2",
@@ -165,7 +165,7 @@ export default function LandingPage() {
           name: "Eva Ross",
           handle: "@evaross",
           testimonial: "The pastry selection is incredible.",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-drinking-coffee-urban-cafe_158595-676.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-drinking-coffee-urban-cafe_158595-676.jpg?_wi=2",
         },
       ]}
       title="Loved by Locals"
